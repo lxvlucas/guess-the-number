@@ -1,8 +1,0 @@
-dd6ce11 (HEAD -> main, origin/main, origin/HEAD) setado de 100 para 200
-b44b8b2 de volta a 100
-ff4fc06 mudou para 50
-6a29b0e troca de 100 para 50
-a882426 número secreto até 100
-964a7f1 trocar 100 para 200
-76c4d46 Mudança do limite para 100
-2b5e5b0 número secreto
